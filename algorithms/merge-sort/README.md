@@ -1,1 +1,13 @@
-Folder for algorithm practice
+# ALGORITHM_NAME
+
+## What is it?
+
+## What is it used for?
+
+## Variants
+
+## Performance
+
+## How to Test
+
+## Educational Resources
